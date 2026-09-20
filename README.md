@@ -36,6 +36,7 @@ I'm a Computer Science enthusiast focused on building practical systems with Pyt
 
 ### Key Areas
 - Network Security & Linux Administration
+- Algorithmic trading
 - Computer Science
 
 ---
@@ -58,9 +59,9 @@ I'm a Computer Science enthusiast focused on building practical systems with Pyt
 
 ## 🤝 Reach Me Out
 
-- LinkedIn: [Add your LinkedIn link](https://www.linkedin.com/)
-- X (Twitter): [Add your X profile](https://x.com/)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- LinkedIn: [Griffith Yeboah](https://www.linkedin.com/in/griffith-yeboah-4a5932302/)
+- X (Twitter): [Griffith Yeboah](https://x.com/zerodaydreamer)
+- Email: [yeboahgriffith2006@gmail.com](mailto:yeboahgriffith2006@gmail.com)
 
 ---
 
